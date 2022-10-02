@@ -32,9 +32,5 @@ public class Login {
     loginButton.click();
 
   }
-//  public String getErrorMessage(){
-//
-//    return errorText.getText().trim();
-//  }
   
 }

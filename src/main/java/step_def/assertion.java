@@ -17,7 +17,7 @@ public class assertion {
 
         Login login = new Login(driver);
 
-        login.LoginFunction("sbcgsodc", "74927437");
+        login.LoginFunction("sbcgsodcuyf", "74927437");
         Thread.sleep(1000);
 
         String actualErrorMessage = login.errorText.getText().trim();
